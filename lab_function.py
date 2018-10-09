@@ -1,4 +1,4 @@
-def ArmN(x):
+def ArmN(x):  #defines function
  sum=0
  t=x
  while(t>0):
